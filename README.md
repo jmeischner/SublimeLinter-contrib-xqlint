@@ -38,7 +38,8 @@ To install via Package Control, do the following:
 1. When the plugin list appears, type `xqlint`. Among the entries you should see `SublimeLinter-contrib-xqlint`. If that entry is not highlighted, use the keyboard or mouse to select it.
 
 ## Settings
-For general information on how SublimeLinter works with settings, please see [Settings][settings]. For information on generic linter settings, please see [Linter Settings][linter-settings].
+- SublimeLinter settings: http://sublimelinter.readthedocs.org/en/latest/settings.html
+- Linter settings: http://sublimelinter.readthedocs.org/en/latest/linter_settings.html
 
 ## Contributing
 If you would like to contribute enhancements or fixes, please do the following:
